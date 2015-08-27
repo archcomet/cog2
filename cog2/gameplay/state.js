@@ -1,0 +1,7 @@
+var State = (function () {
+    function State() {
+    }
+    return State;
+})();
+exports.State = State;
+//# sourceMappingURL=state.js.map
